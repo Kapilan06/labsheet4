@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Labsheet4</string>
+
+    <string name="btn_Sign">Sign Up</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_telephone">Telephone</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_re_password">Re-type Password</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_Cancel">Cancel</string>
+    <string name="channel_name">Notification</string>
+    <string name="channel_description">This is redicect to registraton</string>
+
+</resources>
